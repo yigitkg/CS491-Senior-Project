@@ -78,7 +78,7 @@ class _MyHomePageState extends State<MyHomePage> {
     print('New Price: ${enteredNewPrice}');
     print('Selection: ${dropdownValue}');
     print('Duration: ${enteredDuration} hours');
-    print('image uploaded');
+    print('image uploaded lol');
     //Navigator.of(context).pop();
     bool isPermanent;
     if (dropdownValue == 'Permanent Campaign') {
