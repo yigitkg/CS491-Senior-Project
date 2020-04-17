@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'signup.dart';
-import 'forgetPassword.dart';
+//import 'signup.dart';
+//import 'forgetPassword.dart';
 
 
 void main() => runApp(MyApp());
